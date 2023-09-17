@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+
 - 🔭 I’m currently working on [juice-shop](https://github.com/juice-shop/juice-shop)
 
 - 🌱 I’m currently learning **REACT**
