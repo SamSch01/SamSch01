@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=139F11&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sam+%3C3;TN+is+me!!!;Welcome+to+my+profile!"></img>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=139F11&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sam></img>
 </div>
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <img src="https://media.licdn.com/dms/image/D5616AQHaTzOh2GHGDA/profile-displaybackgroundimage-shrink_350_1400/0/1687905277980?e=1700697600&v=beta&t=4ANnBnZwvJKQ_WQ7SBSH8rWf4aoa-6Eputuik7nU9aw">
