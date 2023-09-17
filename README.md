@@ -1,9 +1,12 @@
 <div align='center'>
   
-  ![Header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=0,2,2,5,30)
-  ![](https://github-profile-trophy.vercel.app/?username=SamCode011)
-  
+  ![Header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=0,2,2,5,30) 
 </div>
+
+<div align='center'>
+![](https://github-profile-trophy.vercel.app/?username=SamCode011)
+ </div>
+ 
 <div align="center">
 <img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi!%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Sam++%F0%9F%98%81;Welcome+to+my+profile!
 ></img>
