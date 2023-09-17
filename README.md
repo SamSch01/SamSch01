@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 - 🔭 I’m currently working on [juice-shop](https://github.com/juice-shop/juice-shop)
 
 - 🌱 I’m currently learning **REACT**
@@ -7,7 +8,7 @@
 
 - 📫 How to reach me **aaron2000-2000@outlook.com**
 
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
