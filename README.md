@@ -30,10 +30,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samcode011&" alt="samcode011" /></p>
 
 
-
-## Spotify Playing 🎧
-
-
-
-[![Spotify](https://novatorem2-alpha.vercel.app/api/spotify)](https://open.spotify.com/intl-es/track/7JJmb5XwzOO8jgpou264Ml)
-
