@@ -30,3 +30,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samcode011&" alt="samcode011" /></p>
 
 
+<div align=left>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+
+
