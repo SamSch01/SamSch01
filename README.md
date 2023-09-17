@@ -4,7 +4,7 @@
 </div>
 
 <div align='center'>
-[](https://github-profile-trophy.vercel.app/?username=SamCode011)
+![Header](https://github-profile-trophy.vercel.app/?username=SamCode011)
  </div>
  
 <div align="center">
