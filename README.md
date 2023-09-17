@@ -1,6 +1,6 @@
 <div align='center'>
   
-![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)
+  ![Header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradientblue&height=200&animation=fadeIn&section=header&fontSize=60)
   ![](https://github-profile-trophy.vercel.app/?username=SamCode011)
   
 </div>
