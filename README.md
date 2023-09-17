@@ -35,8 +35,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samcode011&show_icons=true&locale=en" alt="samcode011" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samcode011&" alt="samcode011" /></p>
-
-
 
 
