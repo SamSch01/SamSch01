@@ -1,9 +1,9 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="www.linkedin.com/in/sam-flores-orihuela">Sam</a> 👋</h1>
+<h1 align="center">Hi,I'm <a href="www.linkedin.com/in/sam-flores-orihuela">Sam</a> 👋</h1>
 </div>
 <img src="https://media.licdn.com/dms/image/D5616AQHaTzOh2GHGDA/profile-displaybackgroundimage-shrink_350_1400/0/1687905277980?e=1700697600&v=beta&t=4ANnBnZwvJKQ_WQ7SBSH8rWf4aoa-6Eputuik7nU9aw">
 
-## Sobre mi
+## About Me
 -Good morning, everyone! Thank you for being here today. I wanted to take a moment to talk about my journey as a Junior Front End Developer and share some insights with you.
 
 As a Junior Front End Developer, my role is to bring the visual and interactive elements of a website to life. It's an exciting and ever-evolving field that requires a combination of technical skills and creativity. Let me walk you through some key aspects of being a Junior Front End Developer:
@@ -28,19 +28,19 @@ Thank you for your attention. I hope this brief overview of the Junior Front End
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/SamCode011">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SamCode011&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SamCode011&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="www.linkedin.com/in/sam-flores-orihuela"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/sam-flores-orihuela"><img src="www.linkedin.com/in/sam-flores-orihuela"/></a>
 </p>
 
 -----
 Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
 
-Last Edited on: 11/12/2020
+Last Edited on: 17/09/2023
