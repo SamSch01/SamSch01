@@ -1,43 +1,17 @@
-<div align="center">
-<h1 align="center">Hi,I'm <a href="www.linkedin.com/in/sam-flores-orihuela">Sam</a> 👋</h1>
-</div>
-<img src="https://media.licdn.com/dms/image/D5616AQHaTzOh2GHGDA/profile-displaybackgroundimage-shrink_350_1400/0/1687905277980?e=1700697600&v=beta&t=4ANnBnZwvJKQ_WQ7SBSH8rWf4aoa-6Eputuik7nU9aw">
+<h1 align="center">Hi 👋, I'm Sam</h1>
+- 🔭 I’m currently working on [juice-shop](https://github.com/juice-shop/juice-shop)
 
-## About Me
--Good morning, everyone! Thank you for being here today. I wanted to take a moment to talk about my journey as a Junior Front End Developer and share some insights with you.
+- 🌱 I’m currently learning **REACT**
 
-As a Junior Front End Developer, my role is to bring the visual and interactive elements of a website to life. It's an exciting and ever-evolving field that requires a combination of technical skills and creativity. Let me walk you through some key aspects of being a Junior Front End Developer:
+- 👯 I’m looking to collaborate on [juice-shop](https://github.com/juice-shop/juice-shop)
 
-Technical Skills: As a Junior Front End Developer, it's essential to have a strong foundation in HTML, CSS, and JavaScript. These are the building blocks of web development and allow us to create the structure, layout, and functionality of a website.
+- 📫 How to reach me **aaron2000-2000@outlook.com**
 
-Problem-Solving: One of the most important skills for a Junior Front End Developer is the ability to solve problems. Web development often involves troubleshooting issues, finding alternative solutions, and optimizing code for performance. Being able to approach problems with a logical mindset is crucial.
-Thank you for your attention. I hope this brief overview of the Junior Front End Developer role has been insightful. I'm happy to answer any questions you may have!😁
-<br>
-
-### 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/SamCode011">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SamCode011&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SamCode011&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/samf001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samf001" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sam flores orihuela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sam flores orihuela" height="30" width="40" /></a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="www.linkedin.com/in/sam-flores-orihuela"><img src="www.linkedin.com/in/sam-flores-orihuela"/></a>
-</p>
-
------
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
