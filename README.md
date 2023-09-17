@@ -1,6 +1,6 @@
 <div align='center'>
   
-  ![Header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=0,2,2,5,30) 
+  ![Header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=4,4,4,4,30) 
 </div>
 
 <div align="center">
