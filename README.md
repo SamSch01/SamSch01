@@ -41,6 +41,3 @@ Thank you for your attention. I hope this brief overview of the Junior Front End
 </p>
 
 -----
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
-
-Last Edited on: 17/09/2023
