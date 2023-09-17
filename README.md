@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
+<img src="https://media.licdn.com/dms/image/D5616AQHaTzOh2GHGDA/profile-displaybackgroundimage-shrink_350_1400/0/1687905277980?e=1700697600&v=beta&t=4ANnBnZwvJKQ_WQ7SBSH8rWf4aoa-6Eputuik7nU9aw">
 <img align="right" width=300px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
