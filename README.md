@@ -1,8 +1,7 @@
 <div align="center">
-<img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi!%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Sam++%F0%9F%98%81;Welcome+to+my+profile)](https://git.io/typing-svg)
+<img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi!%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Sam++%F0%9F%98%81;Welcome+to+my+profile(https://git.io/typing-svg)
 ></img>
 </div>
-<h1 align="center">Hi 👋, I'm Sam</h1>
 <img src="https://media.licdn.com/dms/image/D5616AQHaTzOh2GHGDA/profile-displaybackgroundimage-shrink_350_1400/0/1687905277980?e=1700697600&v=beta&t=4ANnBnZwvJKQ_WQ7SBSH8rWf4aoa-6Eputuik7nU9aw">
 <img align="right" width=300px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
