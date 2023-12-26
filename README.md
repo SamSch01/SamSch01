@@ -28,7 +28,9 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me ....***
 <p align="left">
-<a href="https://twitter.com/samf001" target="blank"><img align="center" src="http://www.w3.org/2000/svg" viewBox="0 0 512 512"></svg>" alt="samf001" height="30" width="40" /></a>
+  
+<a href="https://twitter.com/in/sam-flores-orihuela" target="blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/x-twitter.svg" viewBox="0 0 512 512">  alt="sam flores orihuela" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/sam-flores-orihuela" target="blank"><img align="center" src="http://www.w3.org/2000/svg" viewBox="0 0 512 512">  alt="sam flores orihuela" height="30" width="40" /></a>
 </p>
 
