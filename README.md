@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on [juice-shop](https://github.com/juice-shop/juice-shop)
 
-- 📫 How to reach me **aaron2000-2000@outlook.com**
+
 
   
 
