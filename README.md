@@ -17,6 +17,8 @@
 ---
 
 ### 🚀 Projects
+- **Portfolio Website** – [Live](https://samsch.netlify.app/#projects) · [Code](https://github.com/SamSch01/sam-vite-portfolio)  
+  *Personal portfolio built with React + Vite, featuring my skills, projects, and a contact form powered by EmailJS.*
 - [Responsive React Landing Page](https://responsive-react-landing-vite.netlify.app/)  
   *Single-page app built with React + Vite, optimized for performance and SEO.*
 
