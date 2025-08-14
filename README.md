@@ -1,40 +1,35 @@
-<div align='center'>
-  
-  ![Header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=4,4,4,4,30) 
-</div>
+# 👋 Hi, I’m Sam
+### Front-End Developer | React & JavaScript Enthusiast
 
-<div align="center">
-<img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi!%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Sam++%F0%9F%98%81;Welcome+to+my+profile!
-></img>
+💻 Passionate about building fast, accessible and responsive interfaces.  
+🚀 Currently working on React projects and improving my full-stack skills.  
+🌱 Always open to collaboration and learning new technologies.
 
+---
 
+### 🔧 Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-![Header](https://github-profile-trophy.vercel.app/?username=SamSch01)
-</div>
+---
 
+### 🚀 Projects
+- [Responsive React Landing Page](https://responsive-react-landing-vite.netlify.app/)  
+  *Single-page app built with React + Vite, optimized for performance and SEO.*
 
-<img align="right" width=300px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+- [Local Café Website](https://primaverac.netlify.app/)  
+  *Responsive UI with interactive menu and embedded map.*
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-- 🔭 I’m currently working on [juice-shop](https://github.com/juice-shop/juice-shop)
+---
 
-- 🌱 I’m currently learning **REACT**
+### 📊 GitHub Stats
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamSch01&show_icons=true&theme=tokyonight)
 
-- 👯 I’m looking to collaborate on [juice-shop](https://github.com/juice-shop/juice-shop)
+---
 
-
-
-  
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me ....***
-<p align="left">
-<a href="https://linkedin.com/in/sam-flores-orihuela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sam flores orihuela" height="30" width="40" /></a>
-</p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samcode011&show_icons=true&locale=en&layout=compact" alt="SamSch01" /></p>
-
-
-
-
-
+### 📫 Contact Me
+- LinkedIn: [linkedin.com/in/tu-linkedin](https://linkedin.com/in/tu-linkedin)
+- Email: **samaaronflores@gmail.com**
