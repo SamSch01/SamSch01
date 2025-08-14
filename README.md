@@ -31,5 +31,5 @@
 ---
 
 ### 📫 Contact Me
-- LinkedIn: [linkedin.com/in/tu-linkedin](www.linkedin.com/in/sam-sch-o)
+- LinkedIn: [www.linkedin.com/in/sam-sch-o](www.linkedin.com/in/sam-sch-o)
 - Email: **samaaronflores@gmail.com**
